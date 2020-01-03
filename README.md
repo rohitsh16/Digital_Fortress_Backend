@@ -18,6 +18,8 @@ This is the backend repository built on Django framework and utilises Django Res
 
 403 : Wrong Clue ID.
 
+410 : Contest Over.
+
 500 : Wrong Answer
 
 The API links:
